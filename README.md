@@ -1,4 +1,2 @@
 # Git_tutorial
-This is my repository for practicing the git commands.\n
-This is the demo for demonstrating the readme.md file
-Third time trying to put some stuff in README.md file
+Trying to giving some contents related my repository..
